@@ -7,7 +7,7 @@ package com.arthee.SprialArray.Display;
 
 /**
  *
- * @author SMDG
+ * @author Arthee
  */
 public interface IArrayDisplay {
     void print(char[][] array);

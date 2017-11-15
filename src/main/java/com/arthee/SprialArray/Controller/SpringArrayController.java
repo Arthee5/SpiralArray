@@ -9,7 +9,7 @@ import com.arthee.SprialArray.Display.*;
 
 /**
  *
- * @author SMDG
+ * @author Arthee
  */
 public class SpringArrayController {
     

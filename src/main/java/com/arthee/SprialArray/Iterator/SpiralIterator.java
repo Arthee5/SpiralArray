@@ -10,7 +10,7 @@ import java.util.Iterator;
 
 /**
  *
- * @author SMDG
+ * @author Arthee
  */
 public class SpiralIterator implements Iterator<String>{
     
